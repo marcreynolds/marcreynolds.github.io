@@ -39,6 +39,7 @@ plugins:
 domain: marcreynolds.github.io
 url: https://marcreyonlds.github.io
 baseurl: /marcreynolds.github.io/
+repository: marcreynolds/marcreynolds.github.io
 
 # Exclude from processing.
 # The following items will not be processed, by default.
